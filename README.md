@@ -10,6 +10,6 @@ Have you built something cool with our API? Create a Pull Request to add your ap
 
 # Awesome Taostats Apps
 
-* [Taostats](https://taostats.io).  Yes, the premiere ananlytic tracker for the Bittensor network is run 100% using our APIs.
+* [Taostats](https://taostats.io).  Yes, the premiere analytic tracker for the Bittensor network is run 100% using our APIs.
 
 
