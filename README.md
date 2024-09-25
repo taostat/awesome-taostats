@@ -6,8 +6,10 @@ A list of applications built with the [Taostats](https://taostats.io) API.
 
 Sign up for the [API](https://app.taostats.io) and get started in our [docs](http://docs.taostats.io).
 
-Create a Pull Request to add your application here!
+Have you built something cool with our API? Create a Pull Request to add your application here!
 
 # Awesome Taostats Apps
+
+* [Taostats](https://taostats.io).  Yes, the premiere ananlytic tracker for the Bittensor network is run 100% using our APIs.
 
 
