@@ -6,6 +6,8 @@ A list of applications built with the [Taostats](https://taostats.io) API.
 
 Sign up for the [API](https://app.taostats.io) and get started in our [docs](http://docs.taostats.io).
 
-# The apps
+Create a Pull Request to add your application here!
+
+# Awesome Taostats Apps
 
 
