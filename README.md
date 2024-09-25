@@ -1,6 +1,6 @@
 ![](https://avatars.githubusercontent.com/u/158452277?s=200&v=4)
 
-#Awesome Taostats
+# Awesome Taostats
 
 A list of applications built with the [Taostats](https://taostats.io) API.
 
